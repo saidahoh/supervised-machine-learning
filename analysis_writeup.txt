@@ -1,0 +1,10 @@
+Considering the Models -
+
+Once I reviewed the data and the model types, I believe that the regression model
+will perform better for this dataset.  
+Evaluating the Models - without scaling the data, the Random Forest model performed better on the test data.  
+
+Results w/ Scaling - Once I scaled the data, the logistic regression became the better classifier. It had an accuracy score of .66.  
+The Random Forest model decreased in accuracy from 0.64 to 0.5.  
+
+While I was able to produce a model with a .66 accuracy metric, I don’t think that is accurate enough to use in determining credit worthiness.  
